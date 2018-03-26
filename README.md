@@ -1,6 +1,3 @@
-# WS2019_Container_Enable_v1PS
-Powershell Code for Enabling Containers on Windows Server 2019
-
 # Project Title - Enabling Containers on Windows Server 2019 via Powershell
 
 This project's goal is to create a PowerShell scipt that enables Docker containers on Windows Server 2019 Preview Build 17623.  Both Microsft and Docker have championed the navitve capabilites of Windows Server as a Container host platform.  Having a script that lights up those features along with any prerequisites would be helpful.
