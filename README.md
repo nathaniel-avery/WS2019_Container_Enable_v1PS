@@ -29,7 +29,7 @@ From PowerShell ISE on the server
 
 ## Running the tests
 
-No tests exist at this time
+No tests exist at this time, though I'm looking into Pester.
 
 ### Break down into end to end tests
 
